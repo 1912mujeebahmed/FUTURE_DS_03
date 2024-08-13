@@ -12,4 +12,5 @@ As part of my ongoing machine learning studies, I recently completed a project t
 7. Built a NB Classifier model and trained it on the data
 8. Made predictions on the test set and evaluated the model's performance using accuracy, confusion matrix, and classification report
 
-  _ Overall, this project was an excellent learning experience that allowed me to apply machine learning concepts to a practical problem. I'm excited to continue expanding my knowledge and skills in this field._
+_Overall, this project was an excellent learning experience that allowed me to apply machine learning concepts to a practical problem. I'm excited to continue expanding my knowledge and skills in this field.
+_
